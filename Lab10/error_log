@@ -1,0 +1,1 @@
+[18-Nov-2014 14:00:43 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ethanwel/public_html/cs334/Lab10/index2.php on line 18
