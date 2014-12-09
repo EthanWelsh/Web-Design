@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<User>
+ <fname>Abigail</fname>
+ <mname>A</mname>
+ <lname>Adams</lname>
+ <addr>111 A street</addr>
+ <school>Pitt</school>
+ <pnum>111-222-3333</pnum>
+ <email>adams@pitt.edu</email>
+ <major>architecture</major>
+ <comment>that's my major</comment>
+</User>
